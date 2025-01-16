@@ -1,6 +1,6 @@
 {
   "name": "via-httplib",
-  "version": "1.9.0",
+  "version": "1.11.2",
   "description": "C++ HTTP Library",
   "homepage": "https://github.com/kenba/via-httplib",
   "license": "GPL-2.0-or-later",
